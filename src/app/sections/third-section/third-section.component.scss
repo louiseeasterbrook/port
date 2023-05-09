@@ -1,0 +1,16 @@
+@import "../../../assets/styles/global.scss";
+
+.second-section-wrapper{
+    padding-top: 60px;
+    min-height: 70vh;
+    height: 100%;
+    // background-color: aqua;
+
+    h1{
+        padding-bottom: 40px;
+    }
+
+    .left{
+        width: 50%;
+    }
+}

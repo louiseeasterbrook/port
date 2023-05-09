@@ -1,0 +1,23 @@
+.links{
+
+    img{
+        width: 30px;
+        padding:6px
+    }
+
+    img:hover{
+        background-color: rgba(0, 0, 0, .15);
+        // background: linear-gradient(270deg, #4A87E2 0%, rgba(166, 134, 208, 0.84) 107.59%);
+        border-radius: 100%;
+    }
+
+    a:first-of-type{
+        margin-right: 20px;
+    }
+
+    a:hover{
+        // background-color: aqua;
+        height: 100%;
+        width: 100%;
+    }
+}

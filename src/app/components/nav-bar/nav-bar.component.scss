@@ -1,0 +1,15 @@
+@import "../../../assets/styles/global.scss";
+
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    // background-color: aliceblue;
+    padding:16px 0;
+}
+
+.title{
+    h3{
+        cursor: pointer;
+    }
+}
